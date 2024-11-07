@@ -19,7 +19,7 @@
   "dependencies": {
     "@certusone/wormhole-sdk": "^0.9.24",
     "@improbable-eng/grpc-web-node-http-transport": "^0.15.0",
-    "@types/clone": "^2.1.1",
+    "@types/clone": "^2.1.4",
     "@types/koa": "^2.13.5",
     "clone": "^2.1.2",
     "koa": "^2.14.1",
