@@ -10,7 +10,7 @@
     "@project-serum/anchor": "0.25.0",
     "@solana/spl-token": "^0.3.1",
     "@solana/web3.js": "^1.54.1",
-    "byteify": "^2.0.10",
+    "byteify": "^4.1.4",
     "camelcase": "^7.0.0",
     "elliptic": "^6.5.4",
     "keccak256": "^1.0.6"
