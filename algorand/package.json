@@ -3,7 +3,7 @@
     "@certusone/wormhole-sdk": "file:../sdk/js",
     "algosdk": "^1.21.0",
     "ts-node": "^10.7.0",
-    "typescript": "^4.6.2",
+    "typescript": "^5.7.3",
     "varint": "^6.0.0",
     "web3-eth-abi": "^4.1.3"
   },
