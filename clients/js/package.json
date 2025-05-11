@@ -56,7 +56,7 @@
     "esbuild": "0.17.18",
     "ethers": "^6.0.0",
     "js-base64": "^3.6.1",
-    "near-api-js": "^1.0.0",
+    "near-api-js": "^5.1.1",
     "near-seed-phrase": "^0.2.0",
     "yargs": "^17.7.2"
   },
