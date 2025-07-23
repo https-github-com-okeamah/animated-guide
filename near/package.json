@@ -25,7 +25,7 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "regenerator-runtime": "^0.13.9",
+    "regenerator-runtime": "^0.14.0",
     "ts-node": "^10.8.1",
     "web3": "^4.2.0",
     "web3-eth-abi": "^4.1.3",
