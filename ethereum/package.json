@@ -36,7 +36,7 @@
   "license": "ISC",
   "dependencies": {
     "@typechain/ethers-v5": "^10.2.0",
-    "dotenv": "^10.0.0",
+    "dotenv": "^17.2.2",
     "elliptic": "^6.5.2",
     "jsonfile": "^4.0.0",
     "truffle-hdwallet-provider-klaytn": "^1.4.2",
