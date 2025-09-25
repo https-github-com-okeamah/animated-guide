@@ -12,7 +12,7 @@
   "dependencies": {
     "@cosmjs/encoding": "^0.26.2",
     "@xpla/xpla.js": "^1.6.0",
-    "dotenv": "^16.0.0",
+    "dotenv": "^17.2.2",
     "ethers": "^6.0.0",
     "yargs": "^17.0.1"
   }
