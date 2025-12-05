@@ -11,7 +11,7 @@
     "@solana/spl-token": "^0.3.1",
     "@solana/web3.js": "^1.54.1",
     "byteify": "^2.0.10",
-    "camelcase": "^7.0.0",
+    "camelcase": "^9.0.0",
     "elliptic": "^6.6.0",
     "keccak256": "^1.0.6"
   },
