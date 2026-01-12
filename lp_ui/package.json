@@ -18,7 +18,7 @@
     "@solana/wallet-base": "^0.0.1",
     "@solana/web3.js": "^1.73.3",
     "@types/node": "^16.9.1",
-    "@types/react": "^17.0.20",
+    "@types/react": "^19.2.7",
     "@types/react-dom": "^17.0.9",
     "clsx": "^1.1.1",
     "ethers": "^6.13.1",
