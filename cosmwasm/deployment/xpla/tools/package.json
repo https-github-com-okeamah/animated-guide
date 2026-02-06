@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cosmjs/encoding": "^0.26.2",
+    "@cosmjs/encoding": "^0.38.1",
     "@xpla/xpla.js": "^1.6.0",
     "dotenv": "^16.0.0",
     "ethers": "^6.0.0",
